@@ -1,1 +1,1 @@
-This is my react learning journey 😊
+This is my react.js learning journey 😊
